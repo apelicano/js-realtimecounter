@@ -12,6 +12,7 @@
 
 ## Usage
 
-1. Open `index.html` in your web browser.
+1. Open `index.html` in your web browser. 
+  (published as https://apelicano.github.io/js-realtimecounter/)
 2. Start typing in the `textarea` to see the character count update in real-time.
 3. Enjoy the random placeholder text and responsive design.
